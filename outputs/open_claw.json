@@ -1,0 +1,164 @@
+{
+  "data": {
+    "title": "新手入门OpenClaw编程学习路径",
+    "summary": "本学习路径旨在帮助编程新手快速掌握OpenClaw的基础知识和应用技能。通过系统学习，你将了解OpenClaw的基本概念、搭建开发环境、学习基础语法，并通过实战项目加深理解，最终能够运用OpenClaw进行更高级的编程任务。",
+    "nodes": [
+      {
+        "title": "OpenClaw基础介绍",
+        "description": "了解OpenClaw的定义、功能以及适用场景。",
+        "order": 1,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenClaw基础介绍",
+            "url": "https://github.com/search?q=OpenClaw%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D",
+            "description": "与 OpenClaw基础介绍 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenClaw基础介绍",
+            "url": "https://www.youtube.com/results?search_query=OpenClaw%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D",
+            "description": "与 OpenClaw基础介绍 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenClaw基础介绍",
+            "url": "https://duckduckgo.com/?q=OpenClaw%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D",
+            "description": "与 OpenClaw基础介绍 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "OpenClaw环境搭建",
+        "description": "学习如何在本地或云端搭建OpenClaw开发环境。",
+        "order": 2,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenClaw环境搭建",
+            "url": "https://github.com/search?q=OpenClaw%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA",
+            "description": "与 OpenClaw环境搭建 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenClaw环境搭建",
+            "url": "https://www.youtube.com/results?search_query=OpenClaw%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA",
+            "description": "与 OpenClaw环境搭建 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenClaw环境搭建",
+            "url": "https://duckduckgo.com/?q=OpenClaw%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA",
+            "description": "与 OpenClaw环境搭建 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "OpenClaw基础语法",
+        "description": "掌握OpenClaw的基本语法和编程结构。",
+        "order": 3,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenClaw基础语法",
+            "url": "https://github.com/search?q=OpenClaw%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95",
+            "description": "与 OpenClaw基础语法 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenClaw基础语法",
+            "url": "https://www.youtube.com/results?search_query=OpenClaw%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95",
+            "description": "与 OpenClaw基础语法 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenClaw基础语法",
+            "url": "https://duckduckgo.com/?q=OpenClaw%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95",
+            "description": "与 OpenClaw基础语法 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "OpenClaw项目实战",
+        "description": "通过一个简单的项目来实践OpenClaw的使用。",
+        "order": 4,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenClaw项目实战",
+            "url": "https://github.com/search?q=OpenClaw%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 OpenClaw项目实战 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenClaw项目实战",
+            "url": "https://www.youtube.com/results?search_query=OpenClaw%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 OpenClaw项目实战 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenClaw项目实战",
+            "url": "https://duckduckgo.com/?q=OpenClaw%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 OpenClaw项目实战 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "OpenClaw高级应用",
+        "description": "学习OpenClaw的高级特性，如模块化编程、性能优化等。",
+        "order": 5,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenClaw高级应用",
+            "url": "https://github.com/search?q=OpenClaw%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8",
+            "description": "与 OpenClaw高级应用 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenClaw高级应用",
+            "url": "https://www.youtube.com/results?search_query=OpenClaw%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8",
+            "description": "与 OpenClaw高级应用 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenClaw高级应用",
+            "url": "https://duckduckgo.com/?q=OpenClaw%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8",
+            "description": "与 OpenClaw高级应用 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}

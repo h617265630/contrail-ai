@@ -1,0 +1,164 @@
+{
+  "data": {
+    "title": "编程新手入门学习路径",
+    "summary": "本学习路径为编程新手设计，涵盖从基础理论到项目实战的全过程。首先，学习者将掌握编程的基础理论知识，然后选择一门编程语言进行深入学习。在掌握理论和语言的基础上，通过基础编程实践来巩固所学知识。之后，学习者将进入进阶理论学习阶段，以更全面地理解编程概念。最后，通过项目实战来综合运用所学技能，为成为熟练的开发者打下坚实的基础。",
+    "nodes": [
+      {
+        "title": "基础理论入门",
+        "description": "学习编程的基础理论，包括变量、数据类型、控制结构（如循环和条件语句）等概念。",
+        "order": 1,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 基础理论入门",
+            "url": "https://github.com/search?q=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8",
+            "description": "与 基础理论入门 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 基础理论入门",
+            "url": "https://www.youtube.com/results?search_query=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8",
+            "description": "与 基础理论入门 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 基础理论入门",
+            "url": "https://duckduckgo.com/?q=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8",
+            "description": "与 基础理论入门 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "选择编程语言",
+        "description": "根据个人兴趣或行业需求选择一门编程语言进行学习，如Python、JavaScript等。",
+        "order": 2,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 选择编程语言",
+            "url": "https://github.com/search?q=%E9%80%89%E6%8B%A9%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80",
+            "description": "与 选择编程语言 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 选择编程语言",
+            "url": "https://www.youtube.com/results?search_query=%E9%80%89%E6%8B%A9%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80",
+            "description": "与 选择编程语言 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 选择编程语言",
+            "url": "https://duckduckgo.com/?q=%E9%80%89%E6%8B%A9%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80",
+            "description": "与 选择编程语言 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "基础编程实践",
+        "description": "通过编写简单的程序来实践基础理论，如计算器、简单的游戏等。",
+        "order": 3,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 基础编程实践",
+            "url": "https://github.com/search?q=%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5",
+            "description": "与 基础编程实践 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 基础编程实践",
+            "url": "https://www.youtube.com/results?search_query=%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5",
+            "description": "与 基础编程实践 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 基础编程实践",
+            "url": "https://duckduckgo.com/?q=%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5",
+            "description": "与 基础编程实践 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "进阶理论学习",
+        "description": "学习更高级的编程概念，如面向对象编程、数据结构、算法基础等。",
+        "order": 4,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 进阶理论学习",
+            "url": "https://github.com/search?q=%E8%BF%9B%E9%98%B6%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 进阶理论学习 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 进阶理论学习",
+            "url": "https://www.youtube.com/results?search_query=%E8%BF%9B%E9%98%B6%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 进阶理论学习 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 进阶理论学习",
+            "url": "https://duckduckgo.com/?q=%E8%BF%9B%E9%98%B6%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 进阶理论学习 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "项目实战",
+        "description": "选择一个小型项目，将所学知识综合运用，如开发一个个人博客、小型电商平台等。",
+        "order": 5,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 项目实战",
+            "url": "https://github.com/search?q=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 项目实战 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 项目实战",
+            "url": "https://www.youtube.com/results?search_query=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 项目实战 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 项目实战",
+            "url": "https://duckduckgo.com/?q=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 项目实战 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}

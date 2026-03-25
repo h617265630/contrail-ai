@@ -1,0 +1,164 @@
+{
+  "data": {
+    "title": "大语言模型（LLM）原理与实践入门路径",
+    "summary": "本学习路径旨在帮助初学者全面掌握大语言模型的基础理论与实践技能，涵盖Transformer架构、注意力机制、预训练与微调技术、对齐技术（如RLHF/DPO）以及推理与推理加速方法。通过系统学习，学习者将能够阅读和理解相关论文，并具备复现实验的能力。",
+    "nodes": [
+      {
+        "title": "基础理论学习",
+        "description": "了解深度学习基础，掌握神经网络和机器学习的基本概念，为理解大语言模型打下理论基础。",
+        "order": 1,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 基础理论学习",
+            "url": "https://github.com/search?q=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础理论学习 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 基础理论学习",
+            "url": "https://www.youtube.com/results?search_query=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础理论学习 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 基础理论学习",
+            "url": "https://duckduckgo.com/?q=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础理论学习 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "Transformer和注意力机制",
+        "description": "深入学习Transformer架构，掌握注意力机制的工作原理及其在语言模型中的应用。",
+        "order": 2,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: Transformer和注意力机制",
+            "url": "https://github.com/search?q=Transformer%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6",
+            "description": "与 Transformer和注意力机制 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: Transformer和注意力机制",
+            "url": "https://www.youtube.com/results?search_query=Transformer%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6",
+            "description": "与 Transformer和注意力机制 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: Transformer和注意力机制",
+            "url": "https://duckduckgo.com/?q=Transformer%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6",
+            "description": "与 Transformer和注意力机制 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "预训练与微调",
+        "description": "学习大语言模型的预训练过程和微调技术，理解如何通过微调适应特定任务。",
+        "order": 3,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 预训练与微调",
+            "url": "https://github.com/search?q=%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83",
+            "description": "与 预训练与微调 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 预训练与微调",
+            "url": "https://www.youtube.com/results?search_query=%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83",
+            "description": "与 预训练与微调 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 预训练与微调",
+            "url": "https://duckduckgo.com/?q=%E9%A2%84%E8%AE%AD%E7%BB%83%E4%B8%8E%E5%BE%AE%E8%B0%83",
+            "description": "与 预训练与微调 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "对齐技术与推理",
+        "description": "掌握强化学习与人类反馈（RLHF）和数据并行优化（DPO）等对齐技术，以及推理和推理加速的方法。",
+        "order": 4,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 对齐技术与推理",
+            "url": "https://github.com/search?q=%E5%AF%B9%E9%BD%90%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8E%A8%E7%90%86",
+            "description": "与 对齐技术与推理 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 对齐技术与推理",
+            "url": "https://www.youtube.com/results?search_query=%E5%AF%B9%E9%BD%90%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8E%A8%E7%90%86",
+            "description": "与 对齐技术与推理 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 对齐技术与推理",
+            "url": "https://duckduckgo.com/?q=%E5%AF%B9%E9%BD%90%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8E%A8%E7%90%86",
+            "description": "与 对齐技术与推理 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "论文阅读与实验复现",
+        "description": "学习如何阅读和理解大语言模型相关的学术论文，并尝试复现实验结果。",
+        "order": 5,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 论文阅读与实验复现",
+            "url": "https://github.com/search?q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E4%B8%8E%E5%AE%9E%E9%AA%8C%E5%A4%8D%E7%8E%B0",
+            "description": "与 论文阅读与实验复现 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 论文阅读与实验复现",
+            "url": "https://www.youtube.com/results?search_query=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E4%B8%8E%E5%AE%9E%E9%AA%8C%E5%A4%8D%E7%8E%B0",
+            "description": "与 论文阅读与实验复现 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 论文阅读与实验复现",
+            "url": "https://duckduckgo.com/?q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E4%B8%8E%E5%AE%9E%E9%AA%8C%E5%A4%8D%E7%8E%B0",
+            "description": "与 论文阅读与实验复现 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}

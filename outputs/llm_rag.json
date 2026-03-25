@@ -1,0 +1,164 @@
+{
+  "data": {
+    "title": "新手入门：构建RAG问答应用的全路径学习",
+    "summary": "本学习路径旨在帮助初学者全面掌握大语言模型的基础理论、编程实践、模型原理，并最终实现一个RAG问答系统的开发与部署。",
+    "nodes": [
+      {
+        "title": "基础理论学习",
+        "description": "学习大语言模型的基础理论，包括但不限于自然语言处理、机器学习基础、神经网络结构和训练方法。",
+        "order": 1,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 基础理论学习",
+            "url": "https://github.com/search?q=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础理论学习 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 基础理论学习",
+            "url": "https://www.youtube.com/results?search_query=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础理论学习 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 基础理论学习",
+            "url": "https://duckduckgo.com/?q=%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础理论学习 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "编程基础与实践",
+        "description": "掌握Python编程基础，学习使用TensorFlow或PyTorch等深度学习框架，实现简单的神经网络模型。",
+        "order": 2,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 编程基础与实践",
+            "url": "https://github.com/search?q=%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%AE%9E%E8%B7%B5",
+            "description": "与 编程基础与实践 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 编程基础与实践",
+            "url": "https://www.youtube.com/results?search_query=%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%AE%9E%E8%B7%B5",
+            "description": "与 编程基础与实践 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 编程基础与实践",
+            "url": "https://duckduckgo.com/?q=%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%AE%9E%E8%B7%B5",
+            "description": "与 编程基础与实践 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "大语言模型原理",
+        "description": "深入理解大语言模型的工作原理，包括Transformer架构、注意力机制、预训练与微调技术。",
+        "order": 3,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 大语言模型原理",
+            "url": "https://github.com/search?q=%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8E%9F%E7%90%86",
+            "description": "与 大语言模型原理 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 大语言模型原理",
+            "url": "https://www.youtube.com/results?search_query=%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8E%9F%E7%90%86",
+            "description": "与 大语言模型原理 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 大语言模型原理",
+            "url": "https://duckduckgo.com/?q=%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8E%9F%E7%90%86",
+            "description": "与 大语言模型原理 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "RAG问答系统开发",
+        "description": "学习并实现RAG（Retrieval-Augmented Generation）模型，构建问答系统原型，包括信息检索和生成模型的结合。",
+        "order": 4,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: RAG问答系统开发",
+            "url": "https://github.com/search?q=RAG%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91",
+            "description": "与 RAG问答系统开发 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: RAG问答系统开发",
+            "url": "https://www.youtube.com/results?search_query=RAG%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91",
+            "description": "与 RAG问答系统开发 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: RAG问答系统开发",
+            "url": "https://duckduckgo.com/?q=RAG%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91",
+            "description": "与 RAG问答系统开发 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "应用部署与优化",
+        "description": "学习如何将开发好的问答应用部署到服务器或云平台，进行性能优化和监控。",
+        "order": 5,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 应用部署与优化",
+            "url": "https://github.com/search?q=%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BC%98%E5%8C%96",
+            "description": "与 应用部署与优化 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 应用部署与优化",
+            "url": "https://www.youtube.com/results?search_query=%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BC%98%E5%8C%96",
+            "description": "与 应用部署与优化 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 应用部署与优化",
+            "url": "https://duckduckgo.com/?q=%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BC%98%E5%8C%96",
+            "description": "与 应用部署与优化 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}

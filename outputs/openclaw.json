@@ -1,0 +1,164 @@
+{
+  "data": {
+    "title": "OpenCLaw初学者学习路径",
+    "summary": "本学习路径旨在帮助初学者掌握OpenCLaw的基础知识和编程技能。通过系统学习，你将从入门到实战，逐步了解OpenCLaw的高级特性，并能够独立编写简单脚本。",
+    "nodes": [
+      {
+        "title": "OpenCLaw 入门",
+        "description": "了解OpenCLaw的基本概念和应用场景，安装OpenCLaw开发环境。",
+        "order": 1,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenCLaw 入门",
+            "url": "https://github.com/search?q=OpenCLaw+%E5%85%A5%E9%97%A8",
+            "description": "与 OpenCLaw 入门 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenCLaw 入门",
+            "url": "https://www.youtube.com/results?search_query=OpenCLaw+%E5%85%A5%E9%97%A8",
+            "description": "与 OpenCLaw 入门 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenCLaw 入门",
+            "url": "https://duckduckgo.com/?q=OpenCLaw+%E5%85%A5%E9%97%A8",
+            "description": "与 OpenCLaw 入门 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "基础语法学习",
+        "description": "学习OpenCLaw的基础语法，包括变量、控制结构、函数等。",
+        "order": 2,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 基础语法学习",
+            "url": "https://github.com/search?q=%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础语法学习 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 基础语法学习",
+            "url": "https://www.youtube.com/results?search_query=%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础语法学习 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 基础语法学习",
+            "url": "https://duckduckgo.com/?q=%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0",
+            "description": "与 基础语法学习 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "编写简单脚本",
+        "description": "通过编写简单的OpenCLaw脚本，实践基础语法的应用。",
+        "order": 3,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 编写简单脚本",
+            "url": "https://github.com/search?q=%E7%BC%96%E5%86%99%E7%AE%80%E5%8D%95%E8%84%9A%E6%9C%AC",
+            "description": "与 编写简单脚本 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 编写简单脚本",
+            "url": "https://www.youtube.com/results?search_query=%E7%BC%96%E5%86%99%E7%AE%80%E5%8D%95%E8%84%9A%E6%9C%AC",
+            "description": "与 编写简单脚本 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 编写简单脚本",
+            "url": "https://duckduckgo.com/?q=%E7%BC%96%E5%86%99%E7%AE%80%E5%8D%95%E8%84%9A%E6%9C%AC",
+            "description": "与 编写简单脚本 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "OpenCLaw 高级特性",
+        "description": "学习OpenCLaw的高级特性，如模块化编程、错误处理和调试技巧。",
+        "order": 4,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: OpenCLaw 高级特性",
+            "url": "https://github.com/search?q=OpenCLaw+%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7",
+            "description": "与 OpenCLaw 高级特性 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: OpenCLaw 高级特性",
+            "url": "https://www.youtube.com/results?search_query=OpenCLaw+%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7",
+            "description": "与 OpenCLaw 高级特性 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: OpenCLaw 高级特性",
+            "url": "https://duckduckgo.com/?q=OpenCLaw+%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7",
+            "description": "与 OpenCLaw 高级特性 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      },
+      {
+        "title": "项目实战",
+        "description": "完成一个小型的OpenCLaw项目，将所学知识综合运用。",
+        "order": 5,
+        "resources": [
+          {
+            "type": "github",
+            "title": "GitHub: 项目实战",
+            "url": "https://github.com/search?q=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 项目实战 相关的开源仓库搜索结果。",
+            "source_score": 0.85,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "youtube",
+            "title": "YouTube: 项目实战",
+            "url": "https://www.youtube.com/results?search_query=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 项目实战 相关的视频搜索结果。",
+            "source_score": 0.82,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          },
+          {
+            "type": "article",
+            "title": "Web Guide: 项目实战",
+            "url": "https://duckduckgo.com/?q=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98",
+            "description": "与 项目实战 相关的教程与官方资料入口。",
+            "source_score": 0.78,
+            "why_recommended": "与当前学习节点高度相关，且可直接用于实操。"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
